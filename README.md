@@ -8,6 +8,6 @@
     <h1>Hello Github</h1>
     <script>
         console.log("Demo code running");
-    </script>
+</script>
 </body>
 </html>
