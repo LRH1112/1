@@ -7,7 +7,7 @@
 <body>
     <h1>Hello Github</h1>
     <script>
-        console.log("Demo code running");
+     console.log("Demo code running");
 </script>
 </body>
 </html>
